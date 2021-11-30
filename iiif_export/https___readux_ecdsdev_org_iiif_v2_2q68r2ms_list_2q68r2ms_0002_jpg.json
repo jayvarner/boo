@@ -1,0 +1,245 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/list/2q68r2ms_0002.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "51cdd7bf-e071-4c9e-9e85-ac1588b4c833",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='51cdd7bf-e071-4c9e-9e85-ac1588b4c833' class='anno-51cdd7bf-e071-4c9e-9e85-ac1588b4c833' data-letter-spacing='0.10135985288424314'>WILLIAM</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2402,525,369,49",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-51cdd7bf-e071-4c9e-9e85-ac1588b4c833: { height: 49px; width: 369px; font-size: 30.625px; letter-spacing: 37.401785714285715px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8e3dfe84-ca3c-4c4a-b0ca-273472a53033",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8e3dfe84-ca3c-4c4a-b0ca-273472a53033' class='anno-8e3dfe84-ca3c-4c4a-b0ca-273472a53033' data-letter-spacing='0.23516949152542374'>E.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2831,524,59,50",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8e3dfe84-ca3c-4c4a-b0ca-273472a53033: { height: 50px; width: 59px; font-size: 31.25px; letter-spacing: 13.875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "74a4baee-4027-4e4d-a61c-9da5913860b5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='74a4baee-4027-4e4d-a61c-9da5913860b5' class='anno-74a4baee-4027-4e4d-a61c-9da5913860b5' data-letter-spacing='0.16982984293193717'>SUID</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2917,524,191,49",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-74a4baee-4027-4e4d-a61c-9da5913860b5: { height: 49px; width: 191px; font-size: 30.625px; letter-spacing: 32.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "71782542-cf38-4096-b2c9-9942a03293ad",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='71782542-cf38-4096-b2c9-9942a03293ad' class='anno-71782542-cf38-4096-b2c9-9942a03293ad' data-letter-spacing='-0.11607142857142858'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3147,523,14,50",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-71782542-cf38-4096-b2c9-9942a03293ad: { height: 50px; width: 14px; font-size: 31.25px; letter-spacing: -1.625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4a39b06a-6e07-47fc-a5f6-1e37a871f063",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4a39b06a-6e07-47fc-a5f6-1e37a871f063' class='anno-4a39b06a-6e07-47fc-a5f6-1e37a871f063' data-letter-spacing='0.07282608695652175'>COLLECTION</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2511,610,552,48",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4a39b06a-6e07-47fc-a5f6-1e37a871f063: { height: 48px; width: 552px; font-size: 30.0px; letter-spacing: 40.2px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ac1bc16b-4ed4-41d9-b46c-c2ecfda48d0b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ac1bc16b-4ed4-41d9-b46c-c2ecfda48d0b' class='anno-ac1bc16b-4ed4-41d9-b46c-c2ecfda48d0b' data-letter-spacing='0.0724112426035503'>Emory</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2568,1327,169,69",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ac1bc16b-4ed4-41d9-b46c-c2ecfda48d0b: { height: 69px; width: 169px; font-size: 43.125px; letter-spacing: 12.2375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "859593e3-a2b6-4fb6-8fee-0abf932dd33b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='859593e3-a2b6-4fb6-8fee-0abf932dd33b' class='anno-859593e3-a2b6-4fb6-8fee-0abf932dd33b' data-letter-spacing='0.016424418604651162'>University</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0002.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2758,1327,258,69",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-859593e3-a2b6-4fb6-8fee-0abf932dd33b: { height: 69px; width: 258px; font-size: 43.125px; letter-spacing: 4.2375px;}"
+            }
+        }
+    ]
+}

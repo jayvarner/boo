@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/list/2q68r2ms_0004.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a2cf5e39-57b7-4494-a6a7-03243b9894c1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a2cf5e39-57b7-4494-a6a7-03243b9894c1' class='anno-a2cf5e39-57b7-4494-a6a7-03243b9894c1' data-letter-spacing='0.05496651785714286'>96806.8</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=192,317,160,45",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a2cf5e39-57b7-4494-a6a7-03243b9894c1: { height: 45px; width: 160px; font-size: 28.125px; letter-spacing: 8.794642857142858px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5775bf21-e774-43d6-a7ed-2dc48d60fc69",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5775bf21-e774-43d6-a7ed-2dc48d60fc69' class='anno-5775bf21-e774-43d6-a7ed-2dc48d60fc69' data-letter-spacing='0.13696808510638298'>7867</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/canvas/2q68r2ms_0004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/2q68r2ms/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=190,407,94,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5775bf21-e774-43d6-a7ed-2dc48d60fc69: { height: 34px; width: 94px; font-size: 21.25px; letter-spacing: 12.875px;}"
+            }
+        }
+    ]
+}
